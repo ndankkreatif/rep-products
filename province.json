@@ -1,0 +1,138 @@
+[
+ {
+   "prov_id": 1,
+   "prov_name": "ACEH"
+ },
+ {
+   "prov_id": 2,
+   "prov_name": "SUMATERA UTARA"
+ },
+ {
+   "prov_id": 3,
+   "prov_name": "SUMATERA BARAT"
+ },
+ {
+   "prov_id": 4,
+   "prov_name": "RIAU"
+ },
+ {
+   "prov_id": 5,
+   "prov_name": "JAMBI"
+ },
+ {
+   "prov_id": 6,
+   "prov_name": "SUMATERA SELATAN"
+ },
+ {
+   "prov_id": 7,
+   "prov_name": "BENGKULU"
+ },
+ {
+   "prov_id": 8,
+   "prov_name": "LAMPUNG"
+ },
+ {
+   "prov_id": 9,
+   "prov_name": "KEPULAUAN BANGKA BELITUNG"
+ },
+ {
+   "prov_id": 10,
+   "prov_name": "KEPULAUAN RIAU"
+ },
+ {
+   "prov_id": 11,
+   "prov_name": "DAERAH KHUSUS IBUKOTA JAKARTA"
+ },
+ {
+   "prov_id": 12,
+   "prov_name": "JAWA BARAT"
+ },
+ {
+   "prov_id": 13,
+   "prov_name": "JAWA TENGAH"
+ },
+ {
+   "prov_id": 14,
+   "prov_name": "DAERAH ISTIMEWA YOGYAKARTA"
+ },
+ {
+   "prov_id": 15,
+   "prov_name": "JAWA TIMUR"
+ },
+ {
+   "prov_id": 16,
+   "prov_name": "BANTEN"
+ },
+ {
+   "prov_id": 17,
+   "prov_name": "BALI"
+ },
+ {
+   "prov_id": 18,
+   "prov_name": "NUSA TENGGARA BARAT"
+ },
+ {
+   "prov_id": 19,
+   "prov_name": "NUSA TENGGARA TIMUR"
+ },
+ {
+   "prov_id": 20,
+   "prov_name": "KALIMANTAN BARAT"
+ },
+ {
+   "prov_id": 21,
+   "prov_name": "KALIMANTAN TENGAH"
+ },
+ {
+   "prov_id": 22,
+   "prov_name": "KALIMANTAN SELATAN"
+ },
+ {
+   "prov_id": 23,
+   "prov_name": "KALIMANTAN TIMUR"
+ },
+ {
+   "prov_id": 24,
+   "prov_name": "KALIMANTAN UTARA"
+ },
+ {
+   "prov_id": 25,
+   "prov_name": "SULAWESI UTARA"
+ },
+ {
+   "prov_id": 26,
+   "prov_name": "SULAWESI TENGAH"
+ },
+ {
+   "prov_id": 27,
+   "prov_name": "SULAWESI SELATAN"
+ },
+ {
+   "prov_id": 28,
+   "prov_name": "SULAWESI TENGGARA"
+ },
+ {
+   "prov_id": 29,
+   "prov_name": "GORONTALO"
+ },
+ {
+   "prov_id": 30,
+   "prov_name": "SULAWESI BARAT"
+ },
+ {
+   "prov_id": 31,
+   "prov_name": "MALUKU"
+ },
+ {
+   "prov_id": 32,
+   "prov_name": "MALUKU UTARA"
+ },
+ {
+   "prov_id": 33,
+   "prov_name": "PAPUA"
+ },
+ {
+   "prov_id": 34,
+   "prov_name": "PAPUA BARAT"
+ }
+]
